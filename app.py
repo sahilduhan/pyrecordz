@@ -82,6 +82,6 @@ final.write_videofile(VIDEO_NAME, codec=VIDEO_CODEC, fps=VIDEO_FPS)
 
 # Delete the temporary audio file
 
-print("hey cutie, mike testing 1 2 3")
+print("hell baby, long time no see")
 
 os.remove("audio.wav")
