@@ -1,2 +1,3 @@
 This is sample file to fork
 This is sample file for second branch
+Merge this branch to test branch1
