@@ -8,6 +8,7 @@ import os
 import pyautogui
 
 # Define resolution and framerate
+
 SCREEN_SIZE = (640, 480)
 FPS = 30.0
 
@@ -85,3 +86,5 @@ final.write_videofile(VIDEO_NAME, codec=VIDEO_CODEC, fps=VIDEO_FPS)
 print("hey cutie, mike testing 1 2 3")
 
 os.remove("audio.wav")
+
+#rock and roll cuite
